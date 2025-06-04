@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-deferred-deep-link/static/css/main.e6c13ad2.css",
+    "main.js": "/react-deferred-deep-link/static/js/main.a7f714c7.js",
+    "index.html": "/react-deferred-deep-link/index.html",
+    "main.e6c13ad2.css.map": "/react-deferred-deep-link/static/css/main.e6c13ad2.css.map",
+    "main.a7f714c7.js.map": "/react-deferred-deep-link/static/js/main.a7f714c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a7f714c7.js"
+  ]
+}
